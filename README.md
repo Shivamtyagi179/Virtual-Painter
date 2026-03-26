@@ -8,7 +8,6 @@ A computer vision–based application that enables users to draw on a virtual ca
 
 ![Virtual Painter Demo]
 
-> Replace the image above with your actual project screenshot or GIF. Store it inside an `assets/` folder in your repository.
 
 ---
 
