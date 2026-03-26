@@ -51,7 +51,7 @@ Virtual-Painter/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/virtual-painter.git
+git clone https://github.com/your-shivamtyagi179/virtual-painter.git
 cd virtual-painter
 ```
 
@@ -130,8 +130,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: [https://github.com/your-username](https://github.com/Shivamtyagi179)
+Your Name- Shivam tyagi
+GitHub: [https://github.com/your-shivamtyagi179](https://github.com/Shivamtyagi179)
 
 ---
 
