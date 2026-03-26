@@ -129,9 +129,9 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-
-Your Name- Shivam tyagi
-GitHub: [https://github.com/your-shivamtyagi179](https://github.com/Shivamtyagi179)
+ Name- Shivam tyagi
+ 
+GitHub: [https://github.com/shivamtyagi179]
 
 ---
 
