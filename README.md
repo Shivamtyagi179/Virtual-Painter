@@ -6,7 +6,8 @@ A computer vision–based application that enables users to draw on a virtual ca
 
 ## 📸 Project Preview
 
-![Virtual Painter Demo]
+![WhatsApp Image 2026-03-31 at 10 36 40 PM](https://github.com/user-attachments/assets/efd0e83b-330a-48c2-9cc7-ba4926607960)
+
 
 
 ---
